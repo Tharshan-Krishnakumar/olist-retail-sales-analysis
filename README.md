@@ -2,7 +2,9 @@
 
 An end-to-end sales analysis of the Olist Brazilian e-commerce dataset (about 100k orders, 2016 to 2018). I cleaned the raw tables with SQL views in PostgreSQL. Then I answered five business questions in SQL and built a one-page Power BI dashboard on top of the same view.
 
-![Dashboard](dashboard.png)
+![Olist e-commerce sales dashboard built in Power BI](dashboard.pdf.png)
+
+*Power BI dashboard: KPI cards (orders, average order value, revenue), monthly revenue trend from 2017, top 10 categories, average review for on-time vs late deliveries, and top 10 states by revenue.*
 
 ## Business questions
 
